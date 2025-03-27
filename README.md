@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @alreadyasync
+- 🎮 I’m interested in UI Design and Coding for games and software.
