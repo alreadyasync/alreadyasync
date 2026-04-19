@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @alreadyasync
-- 🎮 I’m interested in UI Design and Coding for games and software.
+- ⌨️ I’m interested in Software Development
+- 💻 I code in languages like Python, JavaScript, C++ and C#.
