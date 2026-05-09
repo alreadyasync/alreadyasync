@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @alreadyasync
 - ⌨️ I’m interested in Software Development
+- 🖥️ I'm also quite interested in AI.
 - 💻 I code in languages like Python, JavaScript, C++ and C#.
